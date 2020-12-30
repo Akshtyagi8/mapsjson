@@ -4309,7 +4309,7 @@
             [[10]]
           ],
           "type": "MultiPolygon",
-          "properties": {"ST_NM": "Andaman and Nicobar Islands","state_code":"35"}
+          "properties": {"ST_NM": "ANDAMAN AND NICOBAR ISLANDS","state_code":"35"}
         },
         {
           "arcs": [[11, 12, 13]],
@@ -4479,12 +4479,12 @@
             ]
           ],
           "type": "Polygon",
-          "properties": {"ST_NM": "Dadra and Nagar Haveli","state_code":"26"}
+          "properties": {"ST_NM": "DADRA AND NAGAR HAVELI","state_code":"26"}
         },
         {
           "arcs": [[172, 173]],
           "type": "Polygon",
-          "properties": {"ST_NM": "Daman and Diu","state_code":"25"}
+          "properties": {"ST_NM": "DAMAN AND DIU","state_code":"25"}
         },
         {
           "arcs": [[174, 175, 176]],
@@ -4712,7 +4712,7 @@
             ]
           ],
           "type": "Polygon",
-          "properties": {"ST_NM": "MAHARASTARA","state_code":"27"}
+          "properties": {"ST_NM": "MAHARASHTRA","state_code":"27"}
         },
         {
           "arcs": [[308, 309, -16, 310]],
@@ -5249,7 +5249,7 @@
         {
           "arcs": [[-73, -692, 692, -600, -254, -665, 693, -75, 694]],
           "type": "Polygon",
-          "properties": {"ST_NM": "ANDRA PRADESH","state_code":"28"}
+          "properties": {"ST_NM": "ANDHRA PRADESH","state_code":"28"}
         },
         {
           "arcs": [[695, 696, 697, 698]],
