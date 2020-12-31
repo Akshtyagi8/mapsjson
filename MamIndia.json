@@ -2,7 +2,7 @@
 [
 {"type":"Polygon","properties":{"name":null},"id":"-99","arcs":[[0]]},
 
-{"type":"MultiPolygon","id":"AN","properties":{"name":"Andaman & Nicobar Island"},"arcs":[[[0]],[[1]],[[2]],[[3]],[[4]],[[5]],[[6]],[[7]],[[8]],[[9]],[[10]],[[11]],[[12]]]},
+{"type":"MultiPolygon","id":"AN","properties":{"name":"ANDAMAN AND NICOBAR ISLANDS"},"arcs":[[[0]],[[1]],[[2]],[[3]],[[4]],[[5]],[[6]],[[7]],[[8]],[[9]],[[10]],[[11]],[[12]]]},
 
 {"type":"MultiPolygon","id":"AP","properties":{"name":"ANDHRA PRADESH"},"arcs":[[[13]],[[14,15,16,17,18]]]},
 
@@ -38,41 +38,41 @@
 
 {"type":"Polygon","id":"OD","properties":{"name":"ODISHA"},"arcs":[[-110,112,-19,-79,-36,113]]},
 
-{"type":"Polygon","id":"DN","properties":{"name":"Dadara & Nagar Havelli"},"arcs":[[114,115]]},
+{"type":"Polygon","id":"DN","properties":{"name":"DADAR AND NAGAR HAVELI"},"arcs":[[114,115]]},
 
-{"type":"Polygon","id":"DD","properties":{"name":"Daman & Diu"},"arcs":[[116,117]]},
+{"type":"Polygon","id":"DD","properties":{"name":"DAMAN AND DIU"},"arcs":[[116,117]]},
 
 {"type":"Polygon","id":"GA","properties":{"name":"GOA"},"arcs":[[118,119,120]]},
 
 {"type":"MultiPolygon","id":"GJ","properties":{"name":"GUJARAT"},"arcs":[[[121]],[[122]],[[123]],[[124]],[[125]],[[-67,126,127,-116,128,129,-118,130]]]},
 
-{"type":"Polygon","id":"HR","properties":{"name":"Haryana"},"arcs":[[-89,131,-87,-64,-59,-78,-57,132]]},
+{"type":"Polygon","id":"HR","properties":{"name":"HARYANA"},"arcs":[[-89,131,-87,-64,-59,-78,-57,132]]},
 
-{"type":"Polygon","id":"HP","properties":{"name":"Himachal Pradesh"},"arcs":[[133,-92,-90,-133,-63,134]]},
+{"type":"Polygon","id":"HP","properties":{"name":"HIMACHAL PRADESH"},"arcs":[[133,-92,-90,-133,-63,134]]},
 
-{"type":"Polygon","id":"JK","properties":{"name":"Jammu & Kashmir"},"arcs":[[-135,-62,135]]},
+{"type":"Polygon","id":"JK","properties":{"name":"JAMMU AND KASHMIR"},"arcs":[[-135,-62,135]]},
 
-{"type":"Polygon","id":"JH","properties":{"name":"Jharkhand"},"arcs":[[-111,-114,-41,-85,-33]]},
+{"type":"Polygon","id":"JH","properties":{"name":"JHARKHAND"},"arcs":[[-111,-114,-41,-85,-33]]},
 
-{"type":"Polygon","id":"KA","properties":{"name":"Karnataka"},"arcs":[[-80,-17,-75,136,137,-119,138]]},
+{"type":"Polygon","id":"KA","properties":{"name":"KARNATAKA"},"arcs":[[-80,-17,-75,136,137,-119,138]]},
 
-{"type":"Polygon","id":"KL","properties":{"name":"Kerala"},"arcs":[[-74,139,-137],[43]]},
+{"type":"Polygon","id":"KL","properties":{"name":"KERALA"},"arcs":[[-74,139,-137],[43]]},
 
-{"type":"MultiPolygon","id":"LD","properties":{"name":"Lakshadweep"},"arcs":[[[140]],[[141]]]},
+{"type":"MultiPolygon","id":"LD","properties":{"name":"LAKSHADWEEP"},"arcs":[[[140]],[[141]]]},
 
-{"type":"Polygon","id":"MP","properties":{"name":"Madhya Pradesh"},"arcs":[[-39,142,-127,-66,-86]]},
+{"type":"Polygon","id":"MP","properties":{"name":"MADHYA PRADESH"},"arcs":[[-39,142,-127,-66,-86]]},
 
-{"type":"Polygon","id":"MH","properties":{"name":"Maharashtra"},"arcs":[[-38,-81,-139,-121,143,-129,-115,-128,-143]]},
+{"type":"Polygon","id":"MH","properties":{"name":"MAHARASHTRA"},"arcs":[[-38,-81,-139,-121,143,-129,-115,-128,-143]]},
 
-{"type":"Polygon","id":"MN","properties":{"name":"Manipur"},"arcs":[[144,145,-24,146]]},
+{"type":"Polygon","id":"MN","properties":{"name":"MANIPUR"},"arcs":[[144,145,-24,146]]},
 
-{"type":"Polygon","id":"ML","properties":{"name":"Meghalaya"},"arcs":[[147,-28]]},
+{"type":"Polygon","id":"ML","properties":{"name":"MEGHALAYA"},"arcs":[[147,-28]]},
 
-{"type":"Polygon","id":"MZ","properties":{"name":"Mizoram"},"arcs":[[-146,148,-82,-25]]},
+{"type":"Polygon","id":"MZ","properties":{"name":"MIZORAM"},"arcs":[[-146,148,-82,-25]]},
 
-{"type":"Polygon","id":"NL","properties":{"name":"Nagaland"},"arcs":[[149,-147,-23,-20]]},
+{"type":"Polygon","id":"NL","properties":{"name":"NAGALAND"},"arcs":[[149,-147,-23,-20]]},
 
-{"type":"Polygon","id":"DL","properties":{"name":"NCT of Delhi"},"arcs":[[-88,-132]]}]},
+{"type":"Polygon","id":"DL","properties":{"name":"DELHI"},"arcs":[[-88,-132]]}]},
 
 "places":{"type":"GeometryCollection","geometries":[{"type":"Point","properties":{"name":"Delhi"},"coordinates":[3093,7227]},
 
