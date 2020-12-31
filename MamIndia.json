@@ -8,9 +8,9 @@
 
 {"type":"Polygon","id":"AR","properties":{"name":"Arunanchal Pradesh"},"arcs":[[19,20,21]]},
 
-{"type":"Polygon","id":"AS","properties":{"name":"Assam"},"arcs":[[22,23,24,25,26,27,28,29,30,-21]]},
+{"type":"Polygon","id":"AS","properties":{"name":"ASSAM"},"arcs":[[22,23,24,25,26,27,28,29,30,-21]]},
 
-{"type":"Polygon","id":"BR","properties":{"name":"Bihar"},"arcs":[[31,32,33,34]]},
+{"type":"Polygon","id":"BR","properties":{"name":"BIHAR"},"arcs":[[31,32,33,34]]},
 
 {"type":"Polygon","id":"CT","properties":{"name":"Chhattisgarh"},"arcs":[[35,36,37,38,39,40]]},
 
