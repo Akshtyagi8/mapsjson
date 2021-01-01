@@ -104,7 +104,7 @@
 "type":"Polygon","properties":{"dt_code":"779","district":"LOWER SIANG","st_code":"12","year":"2018","st_nm":"ARUNACHAL PRADESH"}},
 {"arcs":[[-491,499,500]],
 
-"type":"Polygon","properties":{"dt_code":"257","district":"Upper Dibang Valley","st_code":"12","year":"2011_c","st_nm":"ARUNACHAL PRADESH"}},
+"type":"Polygon","properties":{"dt_code":"257","district":"DIBANG VALLEY","st_code":"12","year":"2011_c","st_nm":"ARUNACHAL PRADESH"}},
 {"arcs":[[-440,-473,501,-469,-468,-492,-501,502]],
 
 "type":"Polygon","properties":{"dt_code":"258","district":"LOWER DIBANG VALLEY","st_code":"12","year":"2011_c","st_nm":"ARUNACHAL PRADESH"}},
@@ -122,7 +122,7 @@
 "type":"Polygon","properties":{"dt_code":"250","district":"WEST SIANG","st_code":"12","year":"2011_c","st_nm":"ARUNACHAL PRADESH"}},
 {"arcs":[[-431,-430,-429,-513,-512,-511,-510,-494,-493]],
 
-"type":"Polygon","properties":{"dt_code":"784","district":"LEPA RADA","st_code":"12","year":"2018","st_nm":"ARUNACHAL PRADESH"}},
+"type":"Polygon","properties":{"dt_code":"784","district":"LEPARADA","st_code":"12","year":"2018","st_nm":"ARUNACHAL PRADESH"}},
 {"arcs":[[-433,-499,513,-450,-479,-485]],
 
 "type":"Polygon","properties":{"dt_code":"778","district":"KAMLE","st_code":"12","year":"2018","st_nm":"ARUNACHAL PRADESH"}}]},
@@ -177,7 +177,7 @@
 "type":"Polygon","properties":{"dt_code":"323","district":"NALBARI","st_code":"18","year":"2011_c","st_nm":"ASSAM"}},
 {"arcs":[[-543,-572,584,585,586,-577]],
 
-"type":"Polygon","properties":{"dt_code":"304","district":"MORIGAON","st_code":"18","year":"2011_c","st_nm":"ASSAM"}},
+"type":"Polygon","properties":{"dt_code":"304","district":"MARIGAON","st_code":"18","year":"2011_c","st_nm":"ASSAM"}},
 {"arcs":[[[-562,-579,587,588,589,590,-581,-584]],[[591]]],
 
 "type":"MultiPolygon","properties":{"dt_code":"321","district":"KAMRUP","st_code":"18","year":"2011_c","st_nm":"ASSAM"}},
@@ -266,7 +266,7 @@
 "type":"Polygon","properties":{"dt_code":"214","district":"SAHARSA","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
 {"arcs":[[-677,684,685]],
 
-"type":"Polygon","properties":{"dt_code":"233","district":"KAIMUR","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
+"type":"Polygon","properties":{"dt_code":"233","district":"KAIMUR(BHABUA)","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
 {"arcs":[[-673,686,687,688,-685,-676,-675]],
 
 "type":"Polygon","properties":{"dt_code":"234","district":"ROHTAS","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
@@ -1157,7 +1157,7 @@
 "type":"Polygon","properties":{"dt_code":"512","district":"HINGOLI","st_nm":"MAHARASHTRA","st_code":"27","year":"2011_c"}},
 {"arcs":[[-2060,2075,2076,2077,-2074,-2073]],
 
-"type":"Polygon","properties":{"dt_code":"511","district":"NANDED","st_nm":"MAHARASHTRA","st_code":"27","year":"2011_c"}},
+"type":"Polygon","properties":{"dt_code":"511","district":"NAN DED","st_nm":"MAHARASHTRA","st_code":"27","year":"2011_c"}},
 {"arcs":[[-2064,-2075,-2078,2078,2079]],
 
 "type":"Polygon","properties":{"dt_code":"513","district":"PARBHANI","st_nm":"MAHARASHTRA","st_code":"27","year":"2011_c"}},
