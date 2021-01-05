@@ -37,7 +37,7 @@
 "type":"Polygon","properties":{"dt_code":"552","district":"KURNOOL","st_nm":"ANDHRA PRADESH","st_code":"37","year":"2011_c"}},
 {"arcs":[[349,350,351,352,353,354,355,356,357,358,359,360,361,-348]],
 
-"type":"Polygon","properties":{"dt_code":"553","district":"ANANTAPUR","st_nm":"ANDHRA PRADESH","st_code":"37","year":"2011_c"}},
+"type":"Polygon","properties":{"dt_code":"553","district":"ANANTHAPUR","st_nm":"ANDHRA PRADESH","st_code":"37","year":"2011_c"}},
 {"arcs":[[362,-319,363,-317,364,-315,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,-321]],
 
 "type":"Polygon","properties":{"dt_code":"550","district":"SPSR NELLORE","st_nm":"ANDHRA PRADESH","st_code":"37","year":"2011_c"}},
@@ -266,7 +266,7 @@
 "type":"Polygon","properties":{"dt_code":"214","district":"SAHARSA","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
 {"arcs":[[-677,684,685]],
 
-"type":"Polygon","properties":{"dt_code":"233","district":"KAIMUR(BHABUA)","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
+"type":"Polygon","properties":{"dt_code":"233","district":"KAIMUR (BHABUA)","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
 {"arcs":[[-673,686,687,688,-685,-676,-675]],
 
 "type":"Polygon","properties":{"dt_code":"234","district":"ROHTAS","st_code":"10","year":"2011_c","st_nm":"BIHAR"}},
@@ -604,7 +604,7 @@
 "type":"Polygon","properties":{"dt_code":"071","district":"YAMUNANAGAR","st_code":"06","year":"2011_c","st_nm":"HARYANA"}},
 {"arcs":[[-1093,1094,1095,1096,1097,1098,1099]],
 
-"type":"Polygon","properties":{"dt_code":"072","district":"KURUKSHESTRA","st_code":"06","year":"2011_c","st_nm":"HARYANA"}},
+"type":"Polygon","properties":{"dt_code":"072","district":"KURUKSHETRA","st_code":"06","year":"2011_c","st_nm":"HARYANA"}},
 {"arcs":[[-1096,1100,1101,1102,1103]],
 
 "type":"Polygon","properties":{"dt_code":"073","district":"KAITHAL","st_code":"06","year":"2011_c","st_nm":"HARYANA"}},
@@ -746,7 +746,7 @@
 
 "jharkhand_district":{"type":"GeometryCollection","geometries":[{"arcs":[[1495,1496,1497]],
 
-"type":"Polygon","properties":{"dt_code":"352","district":"SAHIBGANJ","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
+"type":"Polygon","properties":{"dt_code":"352","district":"SAHEBGANJ","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
 {"arcs":[[-1497,1498,1499,1500]],
 
 "type":"Polygon","properties":{"dt_code":"351","district":"GODDA","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
@@ -800,7 +800,7 @@
 "type":"Polygon","properties":{"dt_code":"365","district":"KHUNTI","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
 {"arcs":[[-1552,1563,1564,1565,1566,1567,1568,-1561]],
 
-"type":"Polygon","properties":{"dt_code":"369","district":"SARAIKELA-KHARSAWAN","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
+"type":"Polygon","properties":{"dt_code":"369","district":"SERAIKELA-KHARSAWAN","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
 {"arcs":[[-1567,1569,1570,1571,1572,1573]],
 
 "type":"Polygon","properties":{"dt_code":"357","district":"EAST SINGHBHUM","st_code":"20","year":"2011_c","st_nm":"JHARKHAND"}},
@@ -821,7 +821,7 @@
 "type":"Polygon","properties":{"dt_code":"558","district":"BIDAR","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[-1582,-1581,1584,1585,1586,1587,1588,1589,1590,1591]],
 
-"type":"Polygon","properties":{"dt_code":"579","district":"Kalaburagi","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
+"type":"Polygon","properties":{"dt_code":"579","district":"KALABURAGI","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[1592,1593,1594,1595,1596,1597]],
 
 "type":"Polygon","properties":{"dt_code":"555","district":"BELAGAVI","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
@@ -878,13 +878,13 @@
 "type":"Polygon","properties":{"dt_code":"581","district":"KOLAR","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[-1654,-1667,-1666,1667,1668,1669,1670]],
 
-"type":"Polygon","properties":{"dt_code":"583","district":"BENGALURU RURAL","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
+"type":"Polygon","properties":{"dt_code":"583","district":"BENGALURU (RURAL)","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[-1647,-1651,-1664,-1663,1671,1672]],
 
 "type":"Polygon","properties":{"dt_code":"575","district":"DAKSHIN KANNAD","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[-1669,1673,1674]],
 
-"type":"Polygon","properties":{"dt_code":"572","district":"BENGALURU URBAN","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
+"type":"Polygon","properties":{"dt_code":"572","district":"BENGALURU (URBAN)","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
 {"arcs":[[-1662,1675,1676,-1672]],
 
 "type":"Polygon","properties":{"dt_code":"576","district":"KODAGU","st_code":"29","year":"2011_c","st_nm":"KARNATAKA"}},
@@ -958,7 +958,7 @@
 "LAKSHADWEEP_district":{"type":"GeometryCollection","geometries":[{"arcs":[[[1753]],[[1754]],[[1755]],[[1757]],[[1759]],[[1760]],[[1761]],[[1763]],[[1764]],[[1765]],[[1766]],[[1767]],[[1768]],[[1769]],[[1770]],[[1771]],[[1772]],[[1773]],[[1774]],[[1775]],[[1776]],[[1777]],[[1778]],[[1779]],[[1780]],[[1781]],[[1782]],[[1783]],[[1784]],[[1785]],[[1786]],[[1787]]],
 "type":"MultiPolygon","properties":{"dt_code":"587","district":"LAKSHADWEEP","st_code":"31","year":"2011_c","st_nm":"LAKSHADWEEP"}}]},
 
-"madhyapradesh_district":{"type":"GeometryCollection","geometries":[{"arcs":[[1788,1789,1790]],"type":"Polygon","properties":{"dt_code":"467","district":"Burhanpur","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
+"madhyapradesh_district":{"type":"GeometryCollection","geometries":[{"arcs":[[1788,1789,1790]],"type":"Polygon","properties":{"dt_code":"467","district":"BURHANPUR","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
 {"arcs":[[1791,1792,1793,1794,1795,1796,1797,1798]],
 
 "type":"Polygon","properties":{"dt_code":"456","district":"SEONI","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
@@ -976,7 +976,7 @@
 "type":"Polygon","properties":{"dt_code":"440","district":"KHARGONE","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
 {"arcs":[[-1791,-1824,1824,-1813,1825,1826,1827,1828,1829,1830]],
 
-"type":"Polygon","properties":{"dt_code":"466","district":"Khandwa","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
+"type":"Polygon","properties":{"dt_code":"466","district":"EAST NIMAR","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
 {"arcs":[[-1793,1831,1832,1833,1834]],
 
 "type":"Polygon","properties":{"dt_code":"457","district":"BALAGHAT","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
@@ -1376,7 +1376,7 @@
 "type":"Polygon","properties":{"dt_code":"382","district":"JAJAPUR","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[2378,2379,2380,2381,2382,2383]],
 
-"type":"Polygon","properties":{"dt_code":"392","district":"Subarnapur","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
+"type":"Polygon","properties":{"dt_code":"392","district":"SUBARNAPUR","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[2384,2385,2386,2387,2388]],
 
 "type":"Polygon","properties":{"dt_code":"394","district":"NUAPADA","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
@@ -1421,7 +1421,7 @@
 "type":"Polygon","properties":{"dt_code":"399","district":"MALKANGIRI","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[[2439]],[[-2374,-2403,-2410,-2394,-2379,2440,2441,2442,2443,2444,2445]]],
 
-"type":"MultiPolygon","properties":{"dt_code":"384","district":"ANGULI","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
+"type":"MultiPolygon","properties":{"dt_code":"384","district":"ANGUL","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[-2370,-2369,2446,-2424,-2397,-2376]],
 
 "type":"Polygon","properties":{"dt_code":"379","district":"KENDRAPARA","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
@@ -1442,7 +1442,7 @@
 "type":"Polygon","properties":{"dt_code":"375","district":"KENDUJHAR","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[-2367,-2471,-2453,2471]],
 
-"type":"Polygon","properties":{"dt_code":"377","district":"BALASORE","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
+"type":"Polygon","properties":{"dt_code":"377","district":"BALESHWAR","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
 {"arcs":[[-2463,2472,2473,2474]],
 
 "type":"Polygon","properties":{"dt_code":"371","district":"JHARSUGUDA","st_code":"21","year":"2011_c","st_nm":"ODISHA"}},
@@ -1526,7 +1526,7 @@
 "type":"Polygon","properties":{"dt_code":"047","district":"MANSA","st_code":"03","year":"2011_c","st_nm":"PUNJAB"}},
 {"arcs":[[-2525,-2524,-2547,-2561,-2566,-2541,2585,-2528,2586]],
 
-"type":"Polygon","properties":{"dt_code":"043","district":"FEROZEPUR","st_code":"03","year":"2011_c","st_nm":"PUNJAB"}},
+"type":"Polygon","properties":{"dt_code":"043","district":"FIROZEPUR","st_code":"03","year":"2011_c","st_nm":"PUNJAB"}},
 {"arcs":[[-2500,2587,2588]],
 
 "type":"Polygon","properties":{"dt_code":"773","district":"PATHANKOT","st_code":"03","year":"2011_c","st_nm":"PUNJAB"}},
@@ -1669,7 +1669,7 @@
 "type":"Polygon","properties":{"district":"ERODE","st_code":"33","dt_code":"610","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[-2765,2766,2767]],
 
-"type":"Polygon","properties":{"district":"NILGIRIS","st_code":"33","dt_code":"611","year":"2011_c","st_nm":"TAMIL NADU"}},
+"type":"Polygon","properties":{"district":"THE NILGIRISH","st_code":"33","dt_code":"611","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[-2759,2768,2769,-2761]],
 
 "type":"Polygon","properties":{"district":"NAMAKKAL","st_code":"33","dt_code":"609","year":"2011_c","st_nm":"TAMIL NADU"}},
@@ -1714,7 +1714,7 @@
 "type":"Polygon","properties":{"district":"Thoothukkudi","st_code":"33","dt_code":"627","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[2815,2816]],
 
-"type":"Polygon","properties":{"district":"KANYAKUMARI","st_code":"33","dt_code":"629","year":"2011_c","st_nm":"TAMIL NADU"}},
+"type":"Polygon","properties":{"district":"KANNIYAKUMARI","st_code":"33","dt_code":"629","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[-2750,2817,2818,2819,2820],[2821],[2822]],
 
 "type":"Polygon","properties":{"district":"VILUPPURAM","st_code":"33","dt_code":"607","year":"2019","st_nm":"TAMIL NADU"}},
@@ -1729,7 +1729,7 @@
 "type":"Polygon","properties":{"district":"SIVAGANGA","st_code":"33","dt_code":"622","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[-2808,-2830,-2828,2830,-2812]],
 
-"type":"Polygon","properties":{"district":"RAMANTHAPURAM","st_code":"33","dt_code":"626","year":"2011_c","st_nm":"TAMIL NADU"}},
+"type":"Polygon","properties":{"district":"RAMANATHAPURAM","st_code":"33","dt_code":"626","year":"2011_c","st_nm":"TAMIL NADU"}},
 {"arcs":[[[-2792,-2798,2831]],[[-2790,-2826,2832,-2796]]],
 
 "type":"MultiPolygon","properties":{"district":"NAGAPATTINAM","st_code":"33","dt_code":"618","year":"2011_c","st_nm":"TAMIL NADU"}},
@@ -1765,7 +1765,7 @@
 "type":"Polygon","properties":{"dt_code":"536","district":"HYDERABAD","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[2852,2853,2854,2855,2856,2857,2858,2859,2860]],
 
-"type":"Polygon","properties":{"dt_code":"737","district":"JAGITAL","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
+"type":"Polygon","properties":{"dt_code":"737","district":"Jagitial","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[2861,2862,2863,2864,2865,2866,2867]],
 
 "type":"Polygon","properties":{"dt_code":"752","district":"JANGOAN","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
@@ -1792,7 +1792,7 @@
 "type":"Polygon","properties":{"dt_code":"751","district":"MAHABUBABAD","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[2903,2904,2905,2906,2907]],
 
-"type":"Polygon","properties":{"dt_code":"538","district":"MAHABUBNAGARr","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
+"type":"Polygon","properties":{"dt_code":"538","district":"MAHABUBNAGAR","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[-2853,-2861,2908,-2899,-2898,2909,2910,2911]],
 
 "type":"Polygon","properties":{"dt_code":"735","district":"MANCHERIAL","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
@@ -1822,7 +1822,7 @@
 "type":"Polygon","properties":{"dt_code":"739","district":"RAJANNA SIRCILLA","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[2937,-2916,-2851,-2921,2938,2939,-2930,-2929,-2922,-2906,2940,2941,2942]],
 
-"type":"Polygon","properties":{"dt_code":"537","district":"RANGA REDDY","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
+"type":"Polygon","properties":{"dt_code":"537","district":"RANGA REDDI","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[-2915,-2918,-2917,-2938,-2943,2943,2944,2945,-2884]],
 
 "type":"Polygon","properties":{"dt_code":"740","district":"SANGAREDDY","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
@@ -1852,7 +1852,7 @@
 "type":"Polygon","properties":{"dt_code":"753","district":"BHADRADRI KOTHAGUDEM","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[-2869,-2874,-2959,-2960,-2887,-2936,-2911,2961]],
 
-"type":"Polygon","properties":{"dt_code":"750","district":"JAYASHANKAR BHUPALPALLY","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
+"type":"Polygon","properties":{"dt_code":"750","district":"JAYASHANKAR BHUPALAPALLY","st_code":"36","year":"2016_c","st_nm":"TELANGANA"}},
 {"arcs":[[-2877,2962,-2952,-2904,-2954]],
 
 "type":"Polygon","properties":{"dt_code":"781","district":"Narayanpet","st_code":"36","year":"2019","st_nm":"TELANGANA"}}]},
@@ -1894,7 +1894,7 @@
 "type":"Polygon","properties":{"dt_code":"059","district":"TEHRI GARHWAL","st_code":"05","year":"2011_c","st_nm":"UTTARAKHAND"}},
 {"arcs":[[-2987,-2997,3005,-3004]],
 
-"type":"Polygon","properties":{"dt_code":"058","district":"RUDRAPRAYAG","st_code":"05","year":"2011_c","st_nm":"UTTARAKHAND"}},
+"type":"Polygon","properties":{"dt_code":"058","district":"RUDRA PRAYAG","st_code":"05","year":"2011_c","st_nm":"UTTARAKHAND"}},
 {"arcs":[[-2993,3006,3007,3008,3009]],
 
 "type":"Polygon","properties":{"dt_code":"062","district":"PITHORAGARH","st_code":"05","year":"2011_c","st_nm":"UTTARAKHAND"}},
