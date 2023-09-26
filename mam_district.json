@@ -1042,7 +1042,7 @@
 "type":"Polygon","properties":{"dt_code":"443","district":"VIDISHA","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
 {"arcs":[[-1900,1938,1939,-1935,1940,1941]],
 
-"type":"Polygon","properties":{"dt_code":"442","district":"RAJGARGH","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
+"type":"Polygon","properties":{"dt_code":"442","district":"RAJGARH","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
 {"arcs":[[-1890,-1914,1942,1943,1944]],
 
 "type":"Polygon","properties":{"dt_code":"460","district":"SHAHDOL","st_code":"23","year":"2011_c","st_nm":"MADHYA PRADESH"}},
